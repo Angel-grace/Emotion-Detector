@@ -26,6 +26,7 @@ def emotion_predictor(text_data):
     # Fetching the First index of emotionPredictions and from that we are fetching emotion key
     emotion = emotion_set[0]["emotion"]
 
+    # Returning dictionary
     dominant_emotion =""
     greatest_emotion = 0
 
