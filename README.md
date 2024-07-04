@@ -1,5 +1,5 @@
 # Emotion-Detector
-Emotion Detector is a an Application developed with Flask which Incorporates IBM Watson NLP.
+Emotion Detector is an Application developed with Flask that Incorporates IBM Watson NLP to detect the Emotions of a given text.
 
 
 #### Install Required Libraries
@@ -7,7 +7,7 @@ Emotion Detector is a an Application developed with Flask which Incorporates IBM
 ```
 pip install flask
 pip install requests
-pip install pprint
+pip install print
 pip install Pylint
 ```
 
